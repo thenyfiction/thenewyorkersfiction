@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japan’s Rent-a-Family Industry
+title: Japan's Rent-a-Family Industry
 ---
 
 {{ page.title }}
